@@ -76,7 +76,7 @@
     <Compile Include="Controls\ClsCtlBarang.vb" />
     <Compile Include="Entity\ClsEntBarang.vb" />
     <Compile Include="Controls\IntProses.vb" />
-    <Compile Include="Controls\ModKoneksiDB.vb" />
+    <Compile Include="Global\ModKoneksiDB.vb" />
     <Compile Include="Form\CariBarang.Designer.vb">
       <DependentUpon>CariBarang.vb</DependentUpon>
     </Compile>

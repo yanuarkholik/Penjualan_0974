@@ -37,10 +37,9 @@ Public Class ClsCtlBarang : Implements IntProses
             Dim grid As New DataView(DTS.Tables("Tabel_Barang"))
 
             Return grid
-            Throw New Exception("Ada yang salah")
         Catch ex As Exception
-            MessageBox.Show(ex.Message)
-            End
+            Throw New Exception(ex.Message)
+        End Try
     End Function
 
     Public Function cariData(kunci As String) As DataView Implements IntProses.cariData
