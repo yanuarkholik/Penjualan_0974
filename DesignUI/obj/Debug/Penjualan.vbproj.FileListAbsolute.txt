@@ -1,0 +1,15 @@
+E:\PBD\VSC\DesignUI\DesignUI\bin\Debug\DesignUI.exe.config
+E:\PBD\VSC\DesignUI\DesignUI\bin\Debug\DesignUI.exe
+E:\PBD\VSC\DesignUI\DesignUI\bin\Debug\DesignUI.pdb
+E:\PBD\VSC\DesignUI\DesignUI\bin\Debug\DesignUI.xml
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\Penjualan.vbprojAssemblyReference.cache
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.CariBarang.resources
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.Login.resources
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.Resources.resources
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\Penjualan.vbproj.GenerateResource.cache
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\Penjualan.vbproj.CoreCompileInputs.cache
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.exe
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.xml
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.pdb
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.TransaksiPenjualan.resources
+E:\PBD\VSC\DesignUI\DesignUI\obj\Debug\DesignUI.FormBarang.resources
